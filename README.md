@@ -1,1 +1,1 @@
-<h1 align="centered">Coding Dojo Weekly Progress</h1>
+<h1 align="center">Coding Dojo Weekly Progress</h1>
